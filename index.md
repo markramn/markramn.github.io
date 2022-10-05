@@ -1,6 +1,6 @@
 # Portfolio
 
-## 1. Machine Learning: Category
+## 1. Machine Learning: Retail Analytics
 ---
 
 ### Customer Churn Factors Analysis: XGBoost Model
