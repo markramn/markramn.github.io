@@ -1,5 +1,5 @@
 title: Nicholas Markram # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "Base/images/ProfilePicture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   My personal github portfolio shows some of the projects I have completed as my time as a data scientist. 
   Projects on here range from simple forecasting, classification exercises through to computer vision and 
