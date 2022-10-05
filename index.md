@@ -7,7 +7,7 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/CustomerChurn/CustomerChurn.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markramn/markramn.github.io/tree/main/Projects/CustomerChurn)
 
-**Bold title:** Customer Churn analysis with XGBoost model in Python
+**Customer Churn:** XGBoost model in Python
 
 <div style="text-align: justify">Using open-sourced data to illustrate a POC engagement with a customer, the goal of this analysis was not only to predict which customers are at risk of churning, but understanding the reasons/factors behind high churn probability. </div>
 
