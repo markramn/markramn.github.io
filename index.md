@@ -4,16 +4,17 @@
 ---
 ### Customer Churn Factors Analysis: XGBoost Model
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/CustomerChurn/CustomerChurn.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markramn/markramn.github.io/tree/main/Projects/CustomerChurn)
 
 [Project 1 Title](/sample_page)
 
-**Bold title:** project description text
+**Bold title:** Customer Churn analysis with XGBoost model in Python
 
-<div style="text-align: justify">Using open-sources data to illustrate a POC engagement with a customer, the goal of this analysis was not only to predict which customers are at risk of churning, but understanding the reasons/factors behind high churn probability. </div>
+<div style="text-align: justify">Using open-sourced data to illustrate a POC engagement with a customer, the goal of this analysis was not only to predict which customers are at risk of churning, but understanding the reasons/factors behind high churn probability. </div>
+
 <br>
-<center><img src=Base/images/CustomerChurn_Header.jpg"></center>
+<center><img src="Base/images/CustomerChurn_Header.jpg"></center>
 <br>
 ---
 ### Project Title 
