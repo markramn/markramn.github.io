@@ -2,6 +2,7 @@
 
 ## 1. Machine Learning: Category
 ---
+
 ### Customer Churn Factors Analysis: XGBoost Model
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/CustomerChurn/CustomerChurn.ipynb)
@@ -15,6 +16,7 @@
 <center><img src="Base/images/CustomerChurn_Header.jpg"></center>
 <br>
 ---
+
 ### Customer Cluster Analysis: PCA & KMeans
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/CustomerClustering/CustomerClustering.ipynb)
