@@ -1,8 +1,12 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
+## Category Name 1 
+
+### Project 1
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +21,7 @@
 
 ---
 
-### Category Name 2
+## Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
