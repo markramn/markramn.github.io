@@ -23,7 +23,7 @@
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
-**Bold title:** project description text
+**Bold title:** project description text. Then, to identify interesting and rare ingredient combinations that occur more than by chance,
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -35,7 +35,7 @@
 
 [Project 3 Title](http://example.com/)
 
-**Bold title:** project description text
+**Bold title:** project description text project description text. Then, to identify interesting and rare ingredient combinations that occur more than by chance,
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
