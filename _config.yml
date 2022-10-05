@@ -1,11 +1,16 @@
 title: Nicholas Markram # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description of personal github account
+  My personal github portfolio shows some of the projects I have completed as my time as a data scientist. 
+  Projects on here range from simple forecasting, classification exefcises through to computer vision and 
+  hopefully everything inbetween.
+  
+  I don't only list machine learning projects here but some interesting topics I have discovered along the way
+  such as data streaming, cloud and serverless computing among others.
   <br><br>
-  Second description 
+  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/nicholasmarkram/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
