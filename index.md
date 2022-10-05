@@ -2,18 +2,18 @@
 
 ## 1. Machine Learning: Category
 ---
-### Project Title
+### Customer Churn Factors Analysis: XGBoost Model
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markramn/markramn.github.io/tree/main/Projects/CustomerChurn)
 
 [Project 1 Title](/sample_page)
 
 **Bold title:** project description text
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+<div style="text-align: justify">Using open-sources data to illustrate a POC engagement with a customer, the goal of this analysis was not only to predict which customers are at risk of churning, but understanding the reasons/factors behind high churn probability. </div>
 <br>
-<center><img src="images/fb-food-trends.png"></center>
+<center><img src=Base/images/CustomerChurn_Header.jpg"></center>
 <br>
 ---
 ### Project Title 
