@@ -15,32 +15,23 @@
 <center><img src="Base/images/CustomerChurn_Header.jpg"></center>
 <br>
 ---
-### Project Title 
+### Customer Cluster Analysis: PCA & KMeans
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/CustomerClustering/CustomerClustering.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markramn/markramn.github.io/tree/main/Projects/CustomerClustering)
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
+**Customer Clustering:** PCA & KMeans models in Python
 
-**Bold title:** project description text. Then, to identify interesting and rare ingredient combinations that occur more than by chance,
+<div style="text-align: justify">Using open-sourced data to illustrate a POC engagement with a customer, the goal of this analysis was to segregate customers into an ideal number clusters, using PCA and Variance analysis to identify the ideal number. Once this is done, we use KMeans unsupervised learning to segregate customers into the required number of clusters. The final step is to create a summary profile of each cluster by predominant cluster features. </div>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<br>
+<center><img src="Base/images/CustomerClustering_Header.jpg"></center>
+<br>
 ---
-### Project Title 
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
-
-[Project 3 Title](http://example.com/)
-
-**Bold title:** project description text project description text. Then, to identify interesting and rare ingredient combinations that occur more than by chance,
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-## Category Name 2
+## Useful Code Snippets
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
