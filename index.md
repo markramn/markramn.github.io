@@ -4,7 +4,7 @@
 ---
 ### Customer Churn Factors Analysis: XGBoost Model
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/CustomerChurn/CustomerChurn.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/CustomerChurn/CustomerChurn.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markramn/markramn.github.io/tree/main/Projects/CustomerChurn)
 
 [Project 1 Title](/sample_page)
