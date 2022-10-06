@@ -11,7 +11,7 @@ Use this template if you need a quick developer / data science portfolio! Based 
 Installation and setup instructions for each project will be detailed in full where applicable in the project description.
 ___
 
-To view my data science portfolio web page, please visit [this page](https://markramn.github.io/)
+To view my data science portfolio web page, please visit [this page](https://markramn.github.io/).
 
 ### Markdown
 
