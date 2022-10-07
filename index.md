@@ -29,7 +29,26 @@
 <br>
 <center><img src="Base/images/CustomerClustering_Header.jpg"></center>
 <br>
+
 ---
+## 2. Machine Learning: Computer Vision
+---
+
+### Connected Conservation: Animal Detection Pipeline
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markramn/markramn.github.io/tree/main/Projects/ConnectedConservation)
+
+**Animal Detection:** Computer vision detection pipeline in Python
+
+<div style="text-align: justify">Through a partnership with the Connected Conservation Foundation, Airbus and Microsoft our team conducted research into the feasibility of using high-resolution satellite imagery to perform object detection and classification of animals from space. </div>
+
+<br>
+<center><img src="Base/images/ConnectedConservation_Header.jpg"></center>
+<br>
+
+<div style="text-align: justify">**Copyright:** Connected Conservation Foundation, Airbus, Microsoft and Dimension Data. Any use of this work without prior permission from the relevant stakeholders named above is forbidden. </div>
+
+<br>
 
 ---
 
