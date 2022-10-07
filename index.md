@@ -31,7 +31,7 @@
 <br>
 
 ---
-## 1. Machine Learning: Computer Vision
+## 2. Machine Learning: Computer Vision
 ---
 
 ### Connected Conservation: Animal Detection Pipeline
@@ -48,7 +48,6 @@
 
 <div style="text-align: justify">**Copyright:** Connected Conservation Foundation, Airbus, Microsoft and Dimension Data. Any use of this work without prior permission from the relevant stakeholders named above is forbidden. </div>
 
-<br>
 <br>
 
 ---
