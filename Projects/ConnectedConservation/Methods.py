@@ -182,6 +182,58 @@ class manipulation:
     
         return im
     
+    
+    def detectBlobs(image):
+        #image = np.float32(image)
+    
+        params = cv2.SimpleBlobDetector_Params()
+    
+        # Define thresholds
+        # Can define thresholdStep. See documentation.
+        params.minThreshold = 0
+        params.maxThreshold = 255
+    
+        # Filter by Area.
+        params.filterByArea = True
+        params.minArea = 2 #2px = 1m
+        params.maxArea = 500 #30px = 15m
+    
+        # Filter by Color (black=0)
+        params.filterByColor = False
+        params.blobColor = 0
+    
+        # Filter by Circularity
+        params.filterByCircularity = True
+        params.minCircularity = 0
+        params.maxCircularity = 1
+    
+        # Filter by Convexity
+        params.filterByConvexity = True
+        params.minConvexity = 0
+        params.maxConvexity = 1
+    
+        # Filter by InertiaRatio
+        params.filterByInertia = True
+        params.minInertiaRatio = 0
+        params.maxInertiaRatio = 1
+    
+        # Distance Between Blobs
+        params.minDistBetweenBlobs = 0
+    
+        # Setup the detector with parameters
+        detector = cv2.SimpleBlobDetector_create(params)
+    
+        # Detect blobs
+        keypoints = detector.detect(image)
+    
+        #print("Number of blobs detected are : ", len(keypoints))
+    
+        # Draw blobs
+        img_with_blobs = cv2.drawKeypoints(image, keypoints, np.array([]), (0, 0, 255),
+                                           cv2.DRAW_MATCHES_FLAGS_DRAW_RICH_KEYPOINTS)
+    
+        return img_with_blobs, keypoints
+    
 
 """
 
