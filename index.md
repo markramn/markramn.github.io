@@ -57,10 +57,6 @@ The dataset considers 30 anonamized vectors of data along with a time and amount
 
 <div style="text-align: justify">Through a partnership with the Connected Conservation Foundation, Airbus and Microsoft our team conducted research into the feasibility of using high-resolution satellite imagery to perform object detection and classification of animals from space. </div>
 
-<br>
-<center><img src=></center>
-<br>
-
 <div style="text-align: justify">**Copyright:** Connected Conservation Foundation, Airbus, Microsoft and Dimension Data. Any use of this work without prior permission from the relevant stakeholders named above is forbidden. </div>
 
 <br>
