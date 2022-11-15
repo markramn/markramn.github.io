@@ -17,6 +17,21 @@
 <br>
 ---
 
+### Banking Fraud Detection: Anomaly Detection
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/FraudDetection/FraudDetection.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markramn/markramn.github.io/tree/main/Projects/FraudDetection)
+
+**Anomaly Detection:** Multiple models in Python
+
+<div style="text-align: justify">Using anonamized retail banking data, the exercise is to compare multiple methods for supervised anomaly detection. This is still a work in progress but the models considered so far are XGBoost, Regular ANN, Random Forest classifier and a LSTM Auto-encoder. 
+The dataset considers 30 anonamized vectors of data along with a time and amount variable. </div>
+
+<br>
+<center><img src="Base/images/FraudDetection_Header.jpg"></center>
+<br>
+---
+
 ### Customer Cluster Analysis: PCA & KMeans
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/CustomerClustering/CustomerClustering.ipynb)
@@ -43,7 +58,7 @@
 <div style="text-align: justify">Through a partnership with the Connected Conservation Foundation, Airbus and Microsoft our team conducted research into the feasibility of using high-resolution satellite imagery to perform object detection and classification of animals from space. </div>
 
 <br>
-<center><img src="Base/images/ConnectedConservation_Header.jpg"></center>
+<center><img src=></center>
 <br>
 
 <div style="text-align: justify">**Copyright:** Connected Conservation Foundation, Airbus, Microsoft and Dimension Data. Any use of this work without prior permission from the relevant stakeholders named above is forbidden. </div>
