@@ -69,7 +69,8 @@ The dataset considers 30 anonamized vectors of data along with a time and amount
 
 ### Computer vision methods: Saliency Detection
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markramn/markramn.github.io/tree/main/Projects/SaliencyDetection.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/FraudDetection/SaliencyDetection.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markramn/markramn.github.io/tree/main/Projects/SaliencyDetection)
 
 **Saliency Detection:** Computer vision object detection methodology using Open-CV built in saliency detector.
 
