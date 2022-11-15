@@ -73,6 +73,10 @@ The dataset considers 30 anonamized vectors of data along with a time and amount
 <div style="text-align: justify"> Detecting boundaries in images is an important but difficult part of any computer vision process. A boundary is considered any piece-wise set of points seperating multiple distinct feature areas. The more complex or noisy the image, the more difficult it is to find this boundary. Open-CV has a built in operator for saliency detection. Saliency simply means seperation of object against its background. It does this by using an implementation (albeit much more complex) of the Hough transform, a mathematical approach to finding lines within an image.</div>
 
 <br>
+<div style="text-align: justify">As a fun twist to this project, I experimented with using Open-AI's DALL-E 2 model, a diffusitive (and generative) machine learning model that uses text to create images.  . </div>
+<br>
+
+<br>
 <center><img src="Base/images/SaliencyDetection_Header.jpg"></center>
 <br>
 
