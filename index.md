@@ -69,14 +69,14 @@ The dataset considers 30 anonamized vectors of data along with a time and amount
 
 ### Computer vision methods: Saliency Detection
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markramn/markramn.github.io/tree/main/Projects/SaliencyDetection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markramn/markramn.github.io/tree/main/Projects/SaliencyDetection.ipynb)
 
-**Saliency Detection:** Computer vision methodology using Open-CV built in saliency detector.
+**Saliency Detection:** Computer vision object detection methodology using Open-CV built in saliency detector.
 
 <div style="text-align: justify">  </div>
 
 <br>
-<center><img src="Base/images/DALL-E 1.png"></center>
+<center><img src="Base/images/SaliencyDetection_Header.jpg"></center>
 <br>
 
 <div style="text-align: justify">**Copyright:** OPEN-AI's DALL-E 2 model was used to auto-generate the images used in this project. </div>
