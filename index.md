@@ -55,13 +55,17 @@ The dataset considers 30 anonamized vectors of data along with a time and amount
 <br>
 
 <div style="text-align: justify"> 
-The XGBoost model is a widely used adaptation of the popular gradient boosting model. In this exercise, I follow the implementation described in </div>[this page](http://example.com/](https://blog.mattbowers.dev/xgboost-from-scratch)] <div style="text-align: justify"> and step by step, build up the XGBoost model as it was designed in it's original paper found </div> [here](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)] 
+The XGBoost model is a widely used adaptation of the popular gradient boosting model. In this exercise, I follow the implementation described below and step by step, build up the XGBoost model as it was designed in it's original paper. </div> 
 
 <br>
 <center><img src="Base/images/ScratchXGBoost_Header.jpg"></center>
 <br>
 
 In this exercise, I use the pre-built XGBoost package and compare it against the from-scratch implementation while trying to predict the _alchol content_ in wine given certain features.
+
+References:
+- [xgboost-from-scratch](http://example.com/](https://blog.mattbowers.dev/xgboost-from-scratch)]
+- [XGBoost: A Scalable Tree Boosting System](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)] 
 
 ---
 ## 2. Machine Learning: Computer Vision
@@ -91,7 +95,7 @@ In this exercise, I use the pre-built XGBoost package and compare it against the
 <div style="text-align: justify"> Detecting boundaries in images is an important but difficult part of any computer vision process. A boundary is considered any piece-wise set of points seperating multiple distinct feature areas. The more complex or noisy the image, the more difficult it is to find this boundary. Open-CV has a built in operator for saliency detection. Saliency simply means seperation of object against its background. It does this by using an implementation (albeit much more complex) of the Hough transform, a mathematical approach to finding lines within an image.</div>
 
 <br>
-<div style="text-align: justify">As a fun twist to this project, I experimented with using Open-AI's DALL-E 2 model, a diffusitive (and generative) machine learning model that uses text to create images.  . </div>
+<div style="text-align: justify">As a fun twist to this project, I experimented with using Open-AI's DALL-E 2 model, a diffusitive (and generative) machine learning model that uses text to create images.</div>
 <br>
 
 <br>
