@@ -54,7 +54,8 @@ The dataset considers 30 anonamized vectors of data along with a time and amount
 ### XGBoost: The data scientist's _'Silver Bullet'_
 <br>
 
-<div style="text-align: justify"> The XGBoost model is a widely used adaptation of the popular gradient boosting model. In this exercise, I follow the implementation described in [this page](http://example.com/](https://blog.mattbowers.dev/xgboost-from-scratch) and step by step, build up the XGBoost model as it was designed in it's original paper found [here](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)</div>
+<div style="text-align: justify"> 
+The XGBoost model is a widely used adaptation of the popular gradient boosting model. In this exercise, I follow the implementation described in </div>[this page](http://example.com/](https://blog.mattbowers.dev/xgboost-from-scratch)] <div style="text-align: justify"> and step by step, build up the XGBoost model as it was designed in it's original paper found </div> [here](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)] 
 
 <br>
 <center><img src="Base/images/ScratchXGBoost_Header.jpg"></center>
