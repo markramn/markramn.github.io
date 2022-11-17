@@ -50,7 +50,7 @@ The dataset considers 30 anonamized vectors of data along with a time and amount
 ---
 <div style="text-align: justify">With modern python implementations, it is all too easy to build and implement a machine learning model with only a high level understanding of what goes on under the hood. In this series, it is my aim to build the most common machine learning algorithms from the ground up, utilizing the original documentation and no pre-built python libraries </div>
 
-<br>
+
 ### XGBoost: The data scientist's _'Silver Bullet'_
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/Scratch_XGBoost/Scratch_XGBoost.ipynb)
