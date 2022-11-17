@@ -46,6 +46,23 @@ The dataset considers 30 anonamized vectors of data along with a time and amount
 <br>
 
 ---
+## 2. Machine learning from scratch: Building models from the ground up
+---
+<div style="text-align: justify">With modern python implementations, it is all too easy to build and implement a machine learning model with only a high level understanding of what goes on under the hood. In this series, it is my aim to build the most common machine learning algorithms from the ground up, utilizing the original documentation and no pre-built python libraries </div>
+
+<br>
+### XGBoost: The data scientist's _'Silver Bullet'_
+<br>
+
+<div style="text-align: justify"> The XGBoost model is a widely used adaptation of the popular gradient boosting model. In this exercise, I follow the implementation described in [this page](http://example.com/](https://blog.mattbowers.dev/xgboost-from-scratch) and step by step, build up the XGBoost model as it was designed in it's original paper found [here](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)</div>
+
+<br>
+<center><img src="Base/images/ScratchXGBoost_Header.jpg"></center>
+<br>
+
+In this exercise, I use the pre-built XGBoost package and compare it against the from-scratch implementation while trying to predict the _alchol content_ in wine given certain features.
+
+---
 ## 2. Machine Learning: Computer Vision
 ---
 
