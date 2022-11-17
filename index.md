@@ -64,8 +64,8 @@ The XGBoost model is a widely used adaptation of the popular gradient boosting m
 In this exercise, I use the pre-built XGBoost package and compare it against the from-scratch implementation while trying to predict the _alchol content_ in wine given certain features.
 
 References:
-- [xgboost-from-scratch](http://example.com/](https://blog.mattbowers.dev/xgboost-from-scratch)]
-- [XGBoost: A Scalable Tree Boosting System](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)] 
+- [xgboost-from-scratch](http://example.com/](https://blog.mattbowers.dev/xgboost-from-scratch)
+- [XGBoost: A Scalable Tree Boosting System](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)
 
 ---
 ## 2. Machine Learning: Computer Vision
