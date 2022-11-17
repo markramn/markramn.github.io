@@ -50,7 +50,13 @@ The dataset considers 30 anonamized vectors of data along with a time and amount
 ---
 <div style="text-align: justify">With modern python implementations, it is all too easy to build and implement a machine learning model with only a high level understanding of what goes on under the hood. In this series, it is my aim to build the most common machine learning algorithms from the ground up, utilizing the original documentation and no pre-built python libraries </div>
 
+<br>
 ### XGBoost: The data scientist's _'Silver Bullet'_
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/Scratch_XGBoost/Scratch_XGBoost.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markramn/markramn.github.io/tree/main/Projects/Scratch_XGBoost)
+
+**XGBoost from scratch**
 
 <div style="text-align: justify"> 
 The XGBoost model is a widely used adaptation of the popular gradient boosting model. In this exercise, I follow the implementation described below and step by step, build up the XGBoost model as it was designed in it's original paper. </div> 
