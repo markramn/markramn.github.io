@@ -67,7 +67,7 @@ AWS DeepRacer is an AWS Machine Learning service for exploring reinforcement lea
 The DeepRacer community is large, with many professional competitors. Many of the rewards functions are public and easily accessible even to absolute beginner users. That's what makes DeepRacer the perfect start for those curious about machine learning, presented in a practical and interactive way.
  
 References:
-- [Deep racer community]([https://blog.mattbowers.dev/xgboost-from-scratch](https://github.com/aws-deepracer-community))
+- [Deep racer community](https://github.com/aws-deepracer-community)
 - [AWS DeepRacer](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf](https://docs.aws.amazon.com/deepracer/latest/developerguide/deepracer-how-it-works-overview-reinforcement-learning.html))
 
 <br>
